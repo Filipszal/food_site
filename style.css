@@ -481,16 +481,6 @@ footer span{
     color: #f4e34b;
 }
 
-
-/* $breakpoints: (
-    "xs": 0px,
-    "s": 480px,
-    "md": 720px,
-    "lg": 960px,
-    "xl": 1350px,
-    "xxl": 1450px,
-); */
-
 @media (max-width: 480px) {
     .left h1 strong {
         font-size: 4rem;
